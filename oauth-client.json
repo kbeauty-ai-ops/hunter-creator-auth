@@ -1,7 +1,7 @@
 {
   "client_id": "https://kbeauty-ai-ops.github.io/hunter-creator-auth/oauth-client.json",
-  "client_name": "HUNTER Creator",
-  "client_uri": "https://github.com/kbeauty-ai-ops/hunter-creator-auth",
+  "client_name": "Private Workspace",
+  "client_uri": "https://kbeauty-ai-ops.github.io/workspace-oauth-metadata/",
   "redirect_uris": [
     "http://127.0.0.1:19587/callback"
   ],
